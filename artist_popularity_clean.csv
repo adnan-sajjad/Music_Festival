@@ -1,0 +1,11 @@
+artist_name,genre,average_ticket_price,average_attendance_per_city,social_media_followers,streaming_plays,merchandise_revenue_per_concert,tour_impact,cities_performed_in
+Diljit Dosanjh,Punjabi,2027,33738.0,46,116,22334556,Yes,"Amritsar, Kolkata, Delhi, Mumbai, Bengaluru"
+Honey Singh,Hip-Hop,1573,35223.0,34,430,25360560,No,"Pune, Amritsar, Bengaluru"
+Mika Singh,Bollywood,1025,11057.0,12,371,7983154,No,"Delhi, Amritsar, Bengaluru, Mumbai"
+Arijit Singh,Bollywood,2437,25729.0,30,584,18730712,Yes,"Nagpur, Jaipur, Chandigarh"
+Ed Sheeran,International Pop,3436,18609.0,55,736,4856949,Yes,"Pune, Amritsar, Goa, Chandigarh"
+Bryan Adams,Rock,992,14987.0,30,81,8678356,Yes,"Delhi, Jaipur, Bengaluru, Mumbai"
+DJ Snake,EDM,1431,19089.0,32,429,10193526,No,"Bengaluru, Jaipur, Mumbai, Chandigarh, Kolkata, Delhi"
+Martin Garrix,EDM,2499,11603.0,43,298,6462871,No,"Chandigarh, Delhi, Pune, Nagpur, Bengaluru, Kolkata"
+Badshah,Bollywood,3351,36448.0,33,483,20228640,No,"Nagpur, Goa, Amritsar, Chandigarh, Mumbai"
+Shreya Ghoshal,Classical/Bollywood,3326,3197.0,23,271,792856,No,"Pune, Mumbai, Delhi, Bengaluru, Amritsar"
